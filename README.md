@@ -15,7 +15,7 @@ Write a Java method to compute the future investment value at a given interest r
 
 ```
 Input the investment amount: 1000
-Input the rate of interest: 10
+Input the rate of interest: 10%
 Input number of years: 5
 
 
