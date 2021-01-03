@@ -2,7 +2,9 @@
 ![Misk Logo](https://i.ibb.co/KmXhJbm/Webp-net-resizeimage-1.png)
 
 
-![] (https://i.pinimg.com/originals/c4/db/6c/c4db6c4a7dd3edf2853114eb2c29bfe8.gif)
+
+
+![](https://i.pinimg.com/originals/c4/db/6c/c4db6c4a7dd3edf2853114eb2c29bfe8.gif)
 
 # Future Investment
 
